@@ -1,0 +1,51 @@
+---
+title: "Geo-Pobla-Soc"
+author: "Hillary Salmeron - Roger Almendarez - Jose Gamboa - Josseling Quiroz"
+date: "17/05/2021"
+output:
+  html_document:
+    theme: readable
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_scroll: no
+  word_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r results='hide', warning = FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+library(plotly)
+library(knitr)
+
+```
+# Universidad de Costa Rica
+
+## GF-0613 GEOGRAFÍA, POBLACIÓN Y SOCIEDAD
+#### Profesora: Ph.D. Geóg. Sabrine Acosta Schnell
+
+## Descripción general
+
+TALLER # 2: Manifestaciones espaciales de lo no estrictamente demográfico: la religión, la diversidad, la salud y los nuevos mercados. 
+ 
+Lo no estrictamente demográfico: - Manifestaciones espaciales de: 
+
+- La religión como organizadora de territorio 
+
+- La diversidad sexual 
+
+- Nuevos mercados relacionados con la estructura poblacional: matrimonios, lo funerario, ciudades de solteros, ancianeidad , países de muejeres, de alta juventud, etc.
+
+# *La religión como organizadora de territorio*
+
+### Existe una gran diversidad de formas de religiosidad presentes en la sociedad
+
+> La estructuración de la vida colectiva partió, desde un inicio, de la busqueda  de la integración del ser humano con el cosmos, visto este como detentor de muchas respuestas incontrolables para él, en momentos de organización de su propio mundo. (Le Bourlegat, Castilho, 2004)
+
+![Mapa de jerusalen como centro del mundo](https://www.bunam.unam.mx/mat_apoyo/MaestrosAlumnos/mApoyo/04/Unidad_2/img/a03u2t04p10e01.jpg)
