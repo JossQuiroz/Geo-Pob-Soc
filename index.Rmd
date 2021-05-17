@@ -19,12 +19,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r results='hide', warning = FALSE, message=FALSE, echo=FALSE}
-library(tidyverse)
-library(plotly)
-library(knitr)
-
-```
 # Universidad de Costa Rica
 
 ## GF-0613 GEOGRAFÍA, POBLACIÓN Y SOCIEDAD
@@ -72,12 +66,186 @@ metáforas y alegorías, y las parábolas." (Le Bourlegat, Castilho, 2004)
 > "Cada colectividad se integra alrededor de los mismos valores, creencias, simbolos, mitos y rituales, impregnando de espiritu y comportamiento religioso las relaciones sociales y consagrando espacios" (Le Bourlegat, Castilho, 2004)
 
 
-# *La diversidad sexual*
+# *La Diversidad Sexual*
+- Manifestaciones por los derechos de todos y todas y sus repercusiones en el presente.
+
+- Los derechos de las mujeres.
+
+![Génesis de las manifestaciones LGBT](https://www.pikaramagazine.com/wp-content/uploads/2013/04/feminism-4-e1366280115548.jpg)
+
+
+
+![Foto: Tomada de News.Harvard.EduMarcha del Orgullo LGBT]( https://news.harvard.edu/wp-content/uploads/2019/06/Stonewall_01_2500-1200x800.jpg)
+
+
+
+
+
+
+
+![Foto: Facebook Comunidad LGBTI Costa Rica, tomado por amprensa.com](https://i1.wp.com/amprensa.com/wp-content/uploads/2019/06/LGTBI-CR.jpeg?resize=700%2C366&ssl=1)
+
+
+
+
+
+
+
+- Escala de Análisis Geográfico: Geografía Urbana y de la diversidad sexual.
+
+- Sentimiento de pertenencia en el espacio.
+
+- Ciudades-Calles-Edificios-Zonas de Cruising-Zonas de Prostitución.
+
+- Zonas Rurales y la diversidad sexual.
+
+- Para (Frausto, Arroyo y Paz, 2019):
+>“La exposición de los procesos sociales como los cambios urbanos, explican cómo se establecen las dinámicas socio-espaciales en los procesos de identidad, que transforman los modos de habitar los espacios, de significar en el entorno y de mantenerse inherente a las demandas que componen esa identidad gay en el espacio público.”
+
+-La UCR como un espacio público, seguro e inclusivo.
+
+![La UCR como un espacio público, seguro e inclusivo.](https://medios.ucr.ac.cr/medios/imagenes/2019/header_ucr_diversa25cdf17d3e8299.jpg)
+
+
+
+
+>“La homosexualidad no debe alejarse del pensamiento geográfico, porque así puede interpretarse de un modo sustancial e interdisciplinario su apropiación urbana, siendo una herramienta de comprensión en el análisis de la construcción del espacio público y la visibilización de identidades locales, ayudando a generar explicaciones certeras acerca del desarrollo y la transformación urbana, así como procesos asociados al urbanismo en sus distintas dimensiones.” (Frausto, Arroyo y Paz, 2019)
+
+![Leyes sobre orientacion sexual en el mundo 2019](https://iberoamericasocial.com/wp-content/uploads/2019/06/Mapa-Leyes-Orientaci%C3%B3n-Sexual-2019.jpg) 
+
+
+
+- Nos vemos obligados a crear espacios seguros, espacios de pertenencia.
+
+- Rol de la Geografía en la inclusión de la diversidad en el espacio.
+
+[Manifestaciones en Turkia](https://youtu.be/IOJ6jz_6oCY)
+
+
+
+
+
 
 # *Nuevos mercados relacionados con la estructura poblacional: matrimonios, lo funerario, ciudades de solteros, ancianeidad , países de muejeres, de alta juventud, etc.*
+
+
+## Matrimonios:
+
+- Breve historia de los matrimonios.
+La historia del matrimonio comenzó con los modos en que las culturas antiguas celebraban y formalizaban la unión de sus reyes y nobles. A menudo se traducía en cambios dinásticos, uniones estratégicas o cambios en la sucesión del poder político, según fuera el caso.
+
+![Matromonios de reyes y nobles.](https://historia.nationalgeographic.com.es/medio/2017/01/04/los-reyes-catolicos-administrando-justicia_1715x2000_0fdc9fb4.jpg)
+
+
+#### ¿Y los plebeyos?
+
+- El matrimonio entre plebeyos no era necesario, únicamente mediante ceremonias simples.
+
+![Familia de plebeyos.](https://definicion.de/wp-content/uploads/2013/04/Plebeyo.jpg)
+
+
+- La idea de matrimonio que tiene occidente nace en la antigua roma. Más adelante fue adoptado por la principiante cultura cristiana como un vínculo sagrado.
+
+- A finales de la edad media el matrimonio deja de ser un nexo religioso indisoluble y se convierte más en una figura legal.
+
+#### Siglo XX
+- Los matrimonios impuestos son cada vez menos comunes.
+- A partir de los años 20 el matrimonio se vuelve más universal e incluso con igualdad de condiciones entre mujer y hombre.
+- Desacralización de las uniones.
+- Derechos de la mujer.
+- Aumento de divorcios.
+- Surgimiento del matrimonio civil.
+
+#### Siglo XXI
+- Matrimonios forzados persisten en algunas zonas vulnerables.
+- Níger, Republica Centroafricana y Chad lideran la lista de paises con mayores tasas de matrimonios infantiles del planeta.
+- Matrimonio igualitario.
+- Enormes resistencias por parte de los sectores conservadores en contar del matrimonio igualitario.
+
+![Países que han legalizado el matrimonio igualitario.](https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/11/paises-matrimonio-mismo-sexo-homosexual.png.webp)
+
+
+## Países de alta juventud
+
+- El aumento de la población joven en un país o región a veces es sinónimo de una alta natalidad y alta mortalidad, también se puede pensar en la probabilidad de que todos estos jóvenes en algún momento lleguen a formar parte de la fuerza laboral de su país y aporten a la economía, logrando así desarrollo  y aumento en la productividad económica, no obstante no siempre es así.
+
+
+![Edad Promedio de algunas regiones del mundo](https://s1.eestatic.com/2020/07/16/actualidad/actualidad_505710797_155878450_1706x966.jpg)
+
+
+
+- Como se puede observar en el mapa anterior la región del mundo con una población mas joven es la del continente africano, ahora veamos más de cerca:
+
+![Porcentaje de población joven en Africa. Fuente: Banco Mundial (2020).](https://i.blogs.es/31aa96/youngest-oldest-countrieasfaasdas/1366_2000.png)
+
+
+![Edad Promedio de algunas regiones del mundo. Fuente: Rivero (2020)](https://rebelion.org/wp-content/uploads/2021/01/Niger.jpg)
+
+
+
+El país de Niger es el que posee una mayor población de jóvenes del mundo, un 49,8% del total de su población son personas de menos de 15 años según datos del Banco Mundial, algunos acontecimientos de los últimos años de este país son:
+
+- 1890 - Los franceses ocupan Níger.
+- 1960 - Níger se independiza, pero una severa sequía devasta el país, que entra en un período de inestabilidad política y golpes de estado.
+- 1990 - Se inicia una rebelión en el norte de Níger, que se suma al malestar político del país.
+- 2003 - Se proscribe la esclavitud y Níger gana prominencia internacional cuando el entonces presidente de Estados Unidos, George Bush, afirma que Irak estaba tratando de obtener uranio de Níger para su programa nuclear.
+- 2005 - La ONU advierte que millones de personas enfrentan desnutrición severa debido a la escasez de alimentos causada por la sequía y las plagas de langostas
+-	2019 - Unos cuatro mil civiles perdieron la vida por conflictos armados.
+- 2020 -. La utilización de motocicletas se prohibió en Tillabéry desde enero 2020, dado que se han convertido prácticamente en un emblema, al igual que los fusiles AK-47 para grupos armados.
+- Hoy el país lucha frente a frecuentes sequías, insurgencia después de las resientes elecciones presidenciales del 2021 y pobreza generalizada. 
+
+## FUNERARIO
+ 
+### Países gobernados por mujeres: éxito en la gestión de la crisis del coronavirus
+
+-La crisis actual causada por la pandemia del covid-19, a sido un reto para todas las regiones y países del mundo, la manera en la que se manejo en cada país, fue crucial para determinar las consecuencias sociales, económicas y en salud pública, pues ningún sistema de salud del mundo estaba preparado para una crisis de tales magnitudes. La eficiencia de las medidas tomadas y la prontitud en su aplicación son claves para el manejo de la situación actual, algunos ejemplos de estos países y las personas que esta al frente de ellos son:
+
+![Alemania, Angela Merkel.](https://ichef.bbci.co.uk/news/800/cpsprodpb/414F/production/_111791761_gettyimages-1207965471.jpg)
+
+
+![Nueva Zelanda, Jacinda Ardern.](https://ichef.bbci.co.uk/news/800/cpsprodpb/DD8F/production/_111791765_gettyimages-1217704847.jpg)
+
+
+![Taiwan, Tsai Ing-wen.](https://ichef.bbci.co.uk/news/800/cpsprodpb/8F6F/production/_111791763_gettyimages-1193087929.jpg)
+
+
+![Islandia, Katrín Jakobsdóttir.](https://ichef.bbci.co.uk/news/800/cpsprodpb/17EA8/production/_111806979_gettyimages-1178977178.jpg)
+
+
+
+![Finlandia, Sanna Marin.](https://ichef.bbci.co.uk/news/800/cpsprodpb/14570/production/_111821338_gettyimages-1202605898.jpg)
+
+
+![Dinamarca, Mette Frederiksen.](https://ichef.bbci.co.uk/news/800/cpsprodpb/4A10/production/_111806981_gettyimages-1209302078.jpg)
+
+### ANCIANEIDAD
+
+
+### Ciudades de Solter@s
+
+- Una investigación realizada por el diario norte americano Chicago Tribune, tuvo como objetivo identificar cuáles eran las mejores ciudades para solteros y solteras, para llegar a cabo esta tarea utilizaron como variantes la accesibilidad a vivienda, los ingresos familiares y los costos de las comidas, la diversión y la recreación se calificaron mediante métricas como el recuento per cápita de restaurantes, cafeterías, parques, tiendas y gimnasios, por último,  la proporción de la población soltera, el equilibrio de género, las oportunidades de citas en línea y móviles y los usuarios de Tinder más activos, esto dio como resultado una lista de las 30 mejores ciudades para solteras y solteros, algunas de ellas son:
+
+![Nueva York, Estados Unidos](https://joyvacationsclub.com/wp-content/uploads/2019/07/NY.jpg)
+
+
+
+![Melbourne, Australia](https://gostudyaus.es/wp-content/uploads/2018/10/MEL_header_2-1.jpg)
+
+
+![Salt Lake City, Utah](https://wildlandsnetwork.org/wp-content/uploads/2019/11/AdobeStock_262109313-2000x1121.jpeg)
+
+
+![Madrid, España](https://housfy.s3.eu-west-1.amazonaws.com/prod/blog/images/2019/10/03171132/florian-wehde-WBGjg0DsO_g-unsplash-1024x682.jpg)
+
+
+![Londres, Reino Unido](https://i0.wp.com/www.sinmapa.net/wp-content/uploads/2014/10/63950-640x360-london-icons2-640.jpg?resize=700%2C394&ssl=1)
+
+![Tokio, Japón](https://ep01.epimg.net/elviajero/imagenes/2020/04/30/actualidad/1588237365_988791_1588237524_noticia_normal.jpg)
 
 
 
 ### Bibliografía
 
 - Le Bourlegat, C. A., & De Castilho, M. A. (2004). Lo sagrado en el contexto de territorialidad. Polis. Revista Latinoamericana, (8). 
+
+- Jazmin, P. Lucinda, A & Oscar, F. (2019) Current contributions of Geography of gender and homosexuality from the urban space. Revista Geográfica. México (2019, pp. 13-43)
